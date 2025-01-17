@@ -1,0 +1,29 @@
+{
+    "refresh-scenes": {
+        "notifications": {
+            "success": "Vorschaubild für Szene erstellt: {sceneName}",
+            "warning": "Vorschaubild konnte nicht erstellt werden für: {sceneName}",
+            "error": "Fehler beim Erstellen des Vorschaubilds für: {sceneName}",
+            "complete": "✨ Vorschaubilder-Erstellung abgeschlossen",
+            "start": "✨ Vorschaubilder werden erstellt..."
+        },
+        "console": {
+            "init": "Refresh Scenes | Modul-Initialisierung",
+            "newScene": "Neue Szene erkannt, erstelle Vorschaubild",
+            "sceneDropped": "Szene abgelegt, erstelle Vorschaubild",
+            "attempting": "Versuche Vorschaubild zu erstellen für {sceneName}",
+            "success": "Vorschaubild erfolgreich erstellt für {sceneName}: {thumb}",
+            "failure": "Vorschaubild konnte nicht erstellt werden für {sceneName}",
+            "complete": "✨ Vorschaubild-Erstellung abgeschlossen!"
+        },
+        "dialog": {
+            "title": "Vorschaubilder aktualisieren",
+            "content-multiple": "{count} Szenen wurden importiert. Möchten Sie Vorschaubilder für diese Szenen erstellen?",
+            "yes": "Ja, Vorschaubilder erstellen",
+            "no": "Nein, überspringen"
+        },
+        "button": {
+            "refresh-all": "Alle Vorschaubilder erstellen"
+        }
+    }
+} 

@@ -1,0 +1,20 @@
+{
+    "refresh-scenes": {
+        "notifications": {
+            "start": "✨ Criando miniaturas...",
+            "complete": "✨ Criação de miniaturas concluída!"
+        },
+        "console": {
+            "init": "Refresh Scenes | Inicialização do módulo"
+        },
+        "dialog": {
+            "title": "Atualizar miniaturas",
+            "content-multiple": "{count} cenas foram importadas. Deseja criar miniaturas para estas cenas?",
+            "yes": "Sim, criar miniaturas",
+            "no": "Não, ignorar"
+        },
+        "button": {
+            "refresh-all": "Criar todas as miniaturas"
+        }
+    }
+} 

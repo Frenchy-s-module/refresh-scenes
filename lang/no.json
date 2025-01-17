@@ -1,0 +1,20 @@
+{
+    "refresh-scenes": {
+        "notifications": {
+            "start": "✨ Oppretter miniatyrbilder...",
+            "complete": "✨ Miniatyrbildeoppretting fullført!"
+        },
+        "console": {
+            "init": "Refresh Scenes | Modulinitialisering"
+        },
+        "dialog": {
+            "title": "Oppdater miniatyrbilder",
+            "content-multiple": "{count} scener har blitt importert. Vil du opprette miniatyrbilder for disse scenene?",
+            "yes": "Ja, opprett miniatyrbilder",
+            "no": "Nei, hopp over"
+        },
+        "button": {
+            "refresh-all": "Opprett alle miniatyrbilder"
+        }
+    }
+} 

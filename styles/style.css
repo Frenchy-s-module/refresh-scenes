@@ -1,0 +1,24 @@
+.refresh-all-scenes {
+    background: #4b4a44;
+    color: #f0f0e0;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    padding: 0 8px;
+    margin-left: 4px;
+    line-height: 24px;
+    cursor: pointer;
+    font-size: 12px;
+    box-shadow: 0 0 4px #000000;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+    transition: all 0.2s ease;
+}
+
+.refresh-all-scenes:hover {
+    background: #666666;
+    box-shadow: 0 0 6px #000000;
+    text-shadow: 0 0 4px #ffffff;
+}
+
+.refresh-all-scenes i {
+    margin-right: 4px;
+} 

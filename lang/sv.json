@@ -1,0 +1,20 @@
+{
+    "refresh-scenes": {
+        "notifications": {
+            "start": "✨ Skapar miniatyrbilder...",
+            "complete": "✨ Miniatyrbildskapande klart!"
+        },
+        "console": {
+            "init": "Refresh Scenes | Modulinitiering"
+        },
+        "dialog": {
+            "title": "Uppdatera miniatyrbilder",
+            "content-multiple": "{count} scener har importerats. Vill du skapa miniatyrbilder för dessa scener?",
+            "yes": "Ja, skapa miniatyrbilder",
+            "no": "Nej, hoppa över"
+        },
+        "button": {
+            "refresh-all": "Skapa alla miniatyrbilder"
+        }
+    }
+} 

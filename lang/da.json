@@ -1,0 +1,20 @@
+{
+    "refresh-scenes": {
+        "notifications": {
+            "start": "✨ Opretter miniaturebilleder...",
+            "complete": "✨ Miniaturebillede oprettelse fuldført!"
+        },
+        "console": {
+            "init": "Refresh Scenes | Modulinitialisering"
+        },
+        "dialog": {
+            "title": "Opdater miniaturebilleder",
+            "content-multiple": "{count} scener er blevet importeret. Vil du oprette miniaturebilleder for disse scener?",
+            "yes": "Ja, opret miniaturebilleder",
+            "no": "Nej, spring over"
+        },
+        "button": {
+            "refresh-all": "Opret alle miniaturebilleder"
+        }
+    }
+} 
